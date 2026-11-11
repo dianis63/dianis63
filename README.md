@@ -1,4 +1,4 @@
-# Hi, I'm Diana Aviles 🌙
+# Hi, I'm Diana Avilés 🌙
 
 **Backend & Full Stack Developer | Android Developer**
 
@@ -11,7 +11,7 @@ Java · Kotlin · C# · Python · JavaScript
 ## 🪐 About Me
 
 ```yaml
-name: "Diana Carolina Aviles"
+name: "Diana Carolina Avilés"   
 role: "Backend & Full Stack Developer"
 interests:
   - Backend Development
@@ -32,6 +32,8 @@ I'm a Systems Engineering student interested in software development, backend ar
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -40,7 +42,10 @@ I'm a Systems Engineering student interested in software development, backend ar
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Databases**
 
@@ -58,36 +63,46 @@ I'm a Systems Engineering student interested in software development, backend ar
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🚀 Featured Projects
 
 ### 🌐 TeBuscan
 Employment platform connecting job seekers and companies.
 
-**Technologies:** SolidJS, Node.js, Express, Supabase, PostgreSQL.
+**Technologies:** SolidJS, Node.js, Express, Supabase, PostgreSQL, Prisma.
+
+**Repo:** [github.com/TU-USUARIO/tebuscan](https://github.com/dianis63/tebuscan) 
 
 ### ☕ POS-Cordilleras
 Point of sale system for inventory, orders, payments and sales management.
 
 **Technologies:** React, Node.js, Express, PostgreSQL.
 
+**Repo:** [github.com/TU-USUARIO/pos-cordilleras](https://github.com/dianis63/pos-cordilleras) 
+
 ### 📱 Woovi
 Personal Android application currently in development.
 
 **Technologies:** Kotlin, Jetpack Compose, Supabase, Ktor.
 
-### $ Monely
+**Repo:** [github.com/TU-USUARIO/woovi](https://github.com/dianis63/woovi) 
+
+### 💰 Monely
 Personal finance management application currently in development.
 
 **Technologies:** Kotlin, Room, SQLite, MVVM, Coroutines, Flow.
 
+**Repo:** [github.com/TU-USUARIO/monely](https://github.com/dianis63/monely) 
+
 ## 🏆 Certifications & Achievements
 
-- National Winner – Social Impact, Latin American Innovation Rally (2026).
-- EC-Council Certified Network Principles (2025).
-- ICPC 2025.
+- **National Winner – Social Impact, Latin American Innovation Rally (2026).** 
+- **EC-Council Certified Network Principles (2025).**
+- **ICPC 2025.** 
 
-## 🌎 Languages
+## 🌎 Spoken Languages
 
 - Spanish: Native
 - English: Intermediate
@@ -96,4 +111,3 @@ Personal finance management application currently in development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diana-carolina-ortiz-aviles-61844a384)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dianaaviles.dev@gmail.com)
-
